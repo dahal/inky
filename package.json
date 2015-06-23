@@ -1,10 +1,10 @@
 {
-  "name": "gulp-ink-email",
+  "name": "inky",
   "version": "0.0.1",
   "description": "Automated Email Templates with Gulp, Ink SCSS, with S3, MailGun, Mandrill, Sendgrid, Litmus Integration",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dahal/gulp-ink-email.git"
+    "url": "https://github.com/dahal/inky.git"
   },
   "keywords": [
     "Gulp",
@@ -18,7 +18,7 @@
   "author": "Puru Dahal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dahal/gulp-ink-email/issues"
+    "url": "https://github.com/dahal/inky/issues"
   },
-  "homepage": "https://github.com/dahal/gulp-ink-email"
+  "homepage": "https://github.com/dahal/inky"
 }
